@@ -1,0 +1,61 @@
+GERBANG AND
+
+
+#include<iostream.h>
+main()
+{
+
+int w1,w2,x1,x2,O;
+w1=2 w2=2;
+count<<"x1=";
+cin>>x1;
+count<<"x2=";
+cin>>x2;
+O=x1*w1+x2*w2;
+if(O>=4)
+cout<<"output AND=1"<<endl;
+else
+cout<<"output AND=0"<<endl;
+}
+
+
+GERBANG OR
+
+
+
+#include<iostream.h>
+main()
+{
+
+int w1,w2,x1,x2,O;
+w1=2 w2=2;
+count<<"x1=";
+cin>>x1;
+count<<"x2=";
+cin>>x2;
+O=x1*w1+x2*w2;
+if(O>=4)
+cout<<"output OR=1"<<endl;
+else
+cout<<"output OR=0"<<endl;
+}
+
+
+
+GERBANG NOT
+
+
+#include<iostream.h>
+main()
+{
+
+int w1,x1,O;
+w1=2;
+cout<<"x1;
+O=>>x1*w1;
+if(O=-1)
+
+cout<<"output NOT=1"<<endl;
+else
+cout<<"output NOT=0"<<endl;
+}
